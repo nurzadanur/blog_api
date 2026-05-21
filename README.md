@@ -1,6 +1,6 @@
 # Blog API
 
-Учебный Django REST Framework проект с постами и комментариями.
+Django REST Framework проект с постами и комментариями.
 
 ## Запуск проекта
 
